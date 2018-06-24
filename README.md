@@ -11,7 +11,7 @@ https://code.google.com/p/android-youtube-player
 ## Installation
 
 ```sh
-cordova plugin add https://github.com/Glitchbone/CordovaYoutubeVideoPlayer.git
+cordova plugin add https://github.com/sajithchandra/cordovavideo.git
 ```
 
 ## Usage
